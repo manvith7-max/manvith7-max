@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:7C4DFF,100:8E24AA&text=MANVITH%20H%20SUVARNA&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Computer%20Science%20Student%20|%20Web%20Development%20Intern&descAlignY=60"/>
@@ -251,7 +251,7 @@ Currently working as a **Web Development Intern** at **InAmigos Foundation**, co
 
 # 🎯 Current Focus
 
-```yaml
+
 learning:
   - Machine Learning
   - Generative AI
@@ -272,7 +272,7 @@ open_to:
   - Frontend Development
   - Full Stack Development
   - Open Source Collaboration
-```
+
 
 ---
 
